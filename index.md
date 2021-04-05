@@ -21,18 +21,13 @@
      - Interacted with 3D rendered bacteria from scientists at Salk
      - Used for "High School" day event to show to other high school students touring the institute 
 
-After graduating high school and moving on to college at UCSD, I devoted most of my time to school. In my free time I would hang out with friends, play video games, and surf. I love to surf! During my summers, I would intern for different companies: 
+### After graduating high school and moving on to college at UCSD, I devoted most of my time to school. In my free time I would hang out with friends, play video games, and surf. I love to surf! During my summers, I would intern for different companies: 
 - Freshman Year Summer 
   - Software Engineer Intern @ Leidos
 - Softmore Year Summer
   - Systems Engineer Intern @ Northrop Grumman 
 
-
-
 <br>
-<br>
-
-
 
 <hr>
 
