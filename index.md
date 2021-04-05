@@ -1,7 +1,7 @@
 # **Hi, I'm Blake** 👋
 
 
-<p style="float: left;padding-right: 30px;"><img src="IMG_3392.PNG" alt="Markdown Monster icon" style="" height="650px"/></p>
+<p style="float: right;padding-left: 30px;"><img src="IMG_3392.PNG" alt="Markdown Monster icon" style="" height="650px"/></p>
 
 ### I started programming in high school starting out with some basic Java and later got into Game Development using Unity and C# which included: 
 
