@@ -49,6 +49,7 @@ If not, send me a message why!
 
 <hr>
 
-[back to top](index.md)
+[back to top](https://blakevonderhaar.github.io/CSE110/#i-started-programming-in-high-school-starting-out-with-some-basic-java-and-later-got-into-game-development-using-unity-and-c-which-included) / [refresh page](index.md) 
+
 
 
