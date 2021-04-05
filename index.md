@@ -1,11 +1,11 @@
 # **Hi, I'm Blake** 👋
-<div id="container1">
 
-<p style="float: left;"><img src="IMG_3392.PNG" alt="Markdown Monster icon" style="" height="600px"/></p>
 
-<p style="padding-left: 360px;">I started programming in high school starting out with some basic Java and later got into Game Development using Unity and C# which included: </p>
+<p style="float: left;padding-right: 30px;"><img src="IMG_3392.PNG" alt="Markdown Monster icon" style="" height="600px"/></p>
 
-<div style="padding-left: 360px;">
+### I started programming in high school starting out with some basic Java and later got into Game Development using Unity and C# which included: 
+
+
 
 1. Creating varios games all the way from `print("Hello World")` to a mock version of PubG *that was fully networked and multiplayer*
 2. Competed at a Hack-A-Thon at UCSD (Junior in High School)
@@ -26,21 +26,18 @@ After graduating high school and moving on to college at UCSD, I devoted most of
 - Softmore Year Summer
   - Systems Engineer Intern @ Northrop Grumman
 
-</div>
 
-</div>
 
 <br>
+<br>
 
-<div style="text-align: center;">
+
 
 <hr>
 
 If you would like to connect, you can: 
-<br>
-Add me on [linkedin](https://www.linkedin.com/in/blake-vonder-haar-b8952b179/)
-<br>
-Send me an email @ **blakevhaar@gmail.com**
+- Add me on [linkedin](https://www.linkedin.com/in/blake-vonder-haar-b8952b179/)
+- Send me an email @ **blakevhaar@gmail.com**
 
 <hr>
 
@@ -53,4 +50,4 @@ If not, send me a message why!
 
 [back to top](index.md)
 
-</div>
+
